@@ -24,3 +24,32 @@ background: rgb(41, 42, 43);
         color: rgb(255, 2, 2);
         background: rgb(253, 253, 253);
     }
+
+    .container1{
+        font-weight: bold;
+        text-align: center;
+        margin: auto;
+    }
+
+    #dallas{
+        color: rgb(255, 255, 255);
+        font-size:inherit;
+        padding:2%;
+        background-color: rgb(255, 1, 1);
+    }
+
+    #arlington{
+        color: rgb(255, 255, 255);
+        font-size:inherit;
+        padding:2%;
+        background-color: rgb(255, 0, 0);
+    }
+
+    #ftw{
+        color: rgb(255, 255, 255);
+        font-size:inherit;
+        padding:2%;
+        background-color: rgb(255, 0, 0);
+    }
+
+   
